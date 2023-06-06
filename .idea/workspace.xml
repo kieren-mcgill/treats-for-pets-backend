@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d52a1bf-2f81-4a78-b0cf-1be7b2da1aaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.strapi-updater.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp/data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/middlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/admin/app.example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/admin/webpack.config.example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-carousel-image/content-types/charity-carousel-image/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-carousel-image/controllers/charity-carousel-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-carousel-image/routes/charity-carousel-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-carousel-image/services/charity-carousel-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-text/content-types/charity-text/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-text/controllers/charity-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-text/routes/charity-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/charity-text/services/charity-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-carousel-image/content-types/shop-carousel-image/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-carousel-image/controllers/shop-carousel-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-carousel-image/routes/shop-carousel-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-carousel-image/services/shop-carousel-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-item/content-types/shop-item/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-item/controllers/shop-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-item/routes/shop-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-item/services/shop-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-text/content-types/shop-text/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-text/controllers/shop-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-text/routes/shop-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/shop-text/services/shop-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extensions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/middlewares.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/migrations/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/public/uploads/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/admin/app.example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/admin/webpack.config.example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-carousel-image/content-types/charity-carousel-image/schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-carousel-image/controllers/charity-carousel-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-carousel-image/routes/charity-carousel-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-carousel-image/services/charity-carousel-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-text/content-types/charity-text/schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-text/controllers/charity-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-text/routes/charity-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/charity-text/services/charity-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-carousel-image/content-types/shop-carousel-image/schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-carousel-image/controllers/shop-carousel-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-carousel-image/routes/shop-carousel-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-carousel-image/services/shop-carousel-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-item/content-types/shop-item/schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-item/controllers/shop-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-item/routes/shop-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-item/services/shop-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-text/content-types/shop-text/schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-text/controllers/shop-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-text/routes/shop-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/api/shop-text/services/shop-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/extensions/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QqB8cUPJuOuDmuNHGUHM1c4uGJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.develop">
+    <configuration name="develop (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="develop" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="develop" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="develop" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.develop" />
+        <item itemvalue="npm.develop (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d52a1bf-2f81-4a78-b0cf-1be7b2da1aaf" name="Changes" comment="" />
+      <created>1686071075088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686071075088</updated>
+      <workItem from="1686071076911" duration="320000" />
+      <workItem from="1686071918141" duration="866000" />
+      <workItem from="1686072972494" duration="521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
