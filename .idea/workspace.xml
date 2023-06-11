@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d52a1bf-2f81-4a78-b0cf-1be7b2da1aaf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.strapi-updater.json" beforeDir="false" afterPath="$PROJECT_DIR$/.strapi-updater.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/.tmp/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/env/production/database.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/env/production/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eyupstudent/treats-for-pets-backend&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,6 +49,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.develop">
     <configuration name="develop (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/backend/package.json" />
@@ -92,6 +95,8 @@
       <workItem from="1686072972494" duration="521000" />
       <workItem from="1686073730670" duration="3902000" />
       <workItem from="1686304589729" duration="5213000" />
+      <workItem from="1686469483605" duration="2864000" />
+      <workItem from="1686475240755" duration="1862000" />
     </task>
     <servers />
   </component>
