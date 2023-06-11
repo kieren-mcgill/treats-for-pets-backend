@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9d52a1bf-2f81-4a78-b0cf-1be7b2da1aaf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.strapi-updater.json" beforeDir="false" afterPath="$PROJECT_DIR$/.strapi-updater.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/.tmp/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/env/production/database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/env/production/server.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +91,7 @@
       <workItem from="1686071918141" duration="866000" />
       <workItem from="1686072972494" duration="521000" />
       <workItem from="1686073730670" duration="3902000" />
-      <workItem from="1686304589729" duration="2507000" />
+      <workItem from="1686304589729" duration="5213000" />
     </task>
     <servers />
   </component>
